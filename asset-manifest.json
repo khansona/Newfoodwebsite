@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Newfoodwebsite/static/css/main.b3b95c1f.css",
+    "main.js": "/Newfoodwebsite/static/js/main.1fa4cec8.js",
+    "static/media/template.jpeg": "/Newfoodwebsite/static/media/template.c6032123474abcf25a97.jpeg",
+    "index.html": "/Newfoodwebsite/index.html",
+    "main.b3b95c1f.css.map": "/Newfoodwebsite/static/css/main.b3b95c1f.css.map",
+    "main.1fa4cec8.js.map": "/Newfoodwebsite/static/js/main.1fa4cec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b95c1f.css",
+    "static/js/main.1fa4cec8.js"
+  ]
+}
